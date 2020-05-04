@@ -1,2 +1,4 @@
 # Machine-Learning-Projects
-Diffferent Machine Learning and Deep Learning Projects.
+
+
+* Curated implementation of different Machine learning and deep learning algorithms. 
